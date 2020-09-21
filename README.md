@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jetthollister/jetthollister/blob/master/pics/dukegardens.jpeg" />
-</p>
-
 <h1 align="center">Jett Hollister</h1>
 
 <p align="center">
