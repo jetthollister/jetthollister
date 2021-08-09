@@ -1,7 +1,7 @@
 <h1 align="center">Jett Hollister</h1>
 
 <p align="center">
-  jett.hollister@duke.edu | https://www.linkedin.com/in/jett-hollister | (561) 267-7470
+  jett.hollister@duke.edu | jett.ai | (561) 267-7470
 </p>
 
 ## Duke University
