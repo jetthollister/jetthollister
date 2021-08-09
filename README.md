@@ -6,8 +6,7 @@
 
 ## Duke University
 - Major: B.S. in Electrical and Computer Engineering | Concentration in Machine Learning
-- Coursework: Data Analysis and Decision Science, Machine Learning Methods and Practices,
-Linear Algebra, Differential Equations, Logic, Signal Processing, Data Structures and Algorithms
+- Coursework: Data & Decision Science, Machine Learning Methods, Signal Processing, Linear Algebra, Applied Probability for Stat. Learning, Engineering Systems Optimization & Economics
 
 ## Skills and Interests
 - **Computer**: Python, JavaScript, C, Java, R, Tableau, CAD, SQL, MATLAB
